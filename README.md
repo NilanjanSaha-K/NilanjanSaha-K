@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nilanjan Saha 👋</h1>
-<h3 align="center">Junior Data Analyst | B.Tech CSE | GenAI & Cloud Enthusiast</h3>
+<h3 align="center">B.Tech CSE |AI & ML Engineer| GenAI & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nilanjan-saha-2449961a7">
@@ -8,8 +8,8 @@
   <a href="mailto:nilanjansaha74@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+  <a href="https://portfolio-updated-flame-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -18,12 +18,12 @@
 ### 👨‍💻 About Me
 
 - 📍 Based in **Kolkata, India**
-- 🔭 I’m currently working on **Enterprise AI Agents and Data Analytics**
+- 🔭 I’m currently working on **AI Agents, Machine Learning Models and Data Analytics**
 - 👯 I’m looking to collaborate on **Google Cloud & GenAI Projects**
 - 🛠️ I build apps using **Python (Flask), React, and GCP**
 - 💬 Ask me about **Building AI Agents, Web Dev, and Cloud Architecture**
 - 📫 How to reach me: **nilanjansaha74@gmail.com**
-- ⚡ Fun fact: **I shoot 35mm film photography and ride a Royal Enfield Bullet 350**
+- ⚡ Fun fact: **I shoot 35mm film photography and I love riding motorcycles.**
 
 <br/>
 
@@ -34,18 +34,3 @@
   </a>
 </p>
 
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilanjanSaha-K&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilanjanSaha-K&theme=default&hide_border=true&background=0D1117&stroke=000000&ring=58A6FF&fire=58A6FF&currFire=58A6FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="180" alt="streak graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilanjanSaha-K&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="180" alt="languages graph" />
-</div>
